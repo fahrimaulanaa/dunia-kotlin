@@ -4,24 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e62f80-776c-4596-b245-b9e7ceea7bce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive_Function/factorialLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive_Function/factorialRecursice.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive_Function/tailRecursive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive_Function/tailRecursiveFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/ekstension.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/infix_notation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/returnIf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/returnWhen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/scope.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/vararg_parameter.kt" afterDir="false" />
+    <list default="true" id="19e62f80-776c-4596-b245-b9e7ceea7bce" name="Changes" comment="new file">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/It.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/highOrder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/methodReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/trailingLambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/anonymous.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/closure.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/default_parameter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/default_parameter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/dengan_paremeter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/dengan_paremeter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/namedArgument_parameter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/namedArgument_parameter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/returning.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/returning.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/single_expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/single_expression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/unitReturning.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/unitReturning.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +35,13 @@
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/Recursive_Function/factorialLoop.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/Recursive_Function/factorialRecursice.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/Recursive_Function/tailRecursive.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/expression/methodReference.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/expression/trailingLambda.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/ekspresi.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/operasi.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/type_data.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/variabel.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/anonymous.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/dengan_paremeter.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/returnWhen.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/returning.kt" root0="SKIP_INSPECTION" />
@@ -73,8 +67,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666911140747</updated>
     </task>
+    <task id="LOCAL-00001" summary="new file">
+      <created>1666928879424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666928879424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file" />
   </component>
 </project>
