@@ -5,23 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e62f80-776c-4596-b245-b9e7ceea7bce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semua_Tentang_Kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamental/ekspresi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamental/operasi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamental/type_data.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamental/variabel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/dengan_paremeter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/tanpa_parameter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive_Function/factorialLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive_Function/factorialRecursice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive_Function/tailRecursive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive_Function/tailRecursiveFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/ekstension.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/infix_notation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/returnIf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/returnWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/scope.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/vararg_parameter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/default_parameter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/default_parameter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/dengan_paremeter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/dengan_paremeter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/namedArgument_parameter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/namedArgument_parameter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/returning.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/returning.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/single_expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/single_expression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsi/unitReturning.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/unitReturning.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +41,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/Recursive_Function/factorialLoop.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/Recursive_Function/factorialRecursice.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/Recursive_Function/tailRecursive.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/ekspresi.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/operasi.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/type_data.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/variabel.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/dengan_paremeter.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/returnWhen.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/returning.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/single_expression.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/tanpa_parameter.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/unitReturning.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/vararg_parameter.kt" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
