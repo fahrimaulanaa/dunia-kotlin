@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e62f80-776c-4596-b245-b9e7ceea7bce" name="Changes" comment="new file">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/It.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/highOrder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/lambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/methodReference.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/expression/trailingLambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/anonymous.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi/closure.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/expression/breakToLabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/expression/breakToLabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/expression/continueToLabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/expression/continueToLabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/expression/label.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/expression/label.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/expression/returnToLabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/expression/returnToLabel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fundamental/variabel.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/anonymous.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/dengan_paremeter.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/noInline.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/returnWhen.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/returning.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/kotlin/fungsi/single_expression.kt" root0="SKIP_INSPECTION" />
